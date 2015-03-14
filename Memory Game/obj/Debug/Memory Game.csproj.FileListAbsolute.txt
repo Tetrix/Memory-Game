@@ -1,0 +1,18 @@
+c:\users\tetrix\documents\visual studio 2013\Projects\Memory Game\Memory Game\bin\Debug\Memory Game.exe.config
+c:\users\tetrix\documents\visual studio 2013\Projects\Memory Game\Memory Game\obj\Debug\Memory Game.csprojResolveAssemblyReference.cache
+c:\users\tetrix\documents\visual studio 2013\Projects\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+c:\users\tetrix\documents\visual studio 2013\Projects\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.Cache
+c:\users\tetrix\documents\visual studio 2013\Projects\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+c:\users\tetrix\documents\visual studio 2013\Projects\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+c:\users\tetrix\documents\visual studio 2013\Projects\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+c:\users\tetrix\documents\visual studio 2013\Projects\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\Tetrix\Documents\Visual Studio 2013\Projects\Memory Game\Memory Game\obj\Debug\Memory_Game.Form1.resources
+G:\Skolo\Memory Game\Memory Game\bin\Debug\Memory Game.exe.config
+G:\Skolo\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+G:\Skolo\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+G:\Skolo\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+G:\Skolo\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+G:\Skolo\Memory Game\Memory Game\obj\Debug\Memory Game.csprojResolveAssemblyReference.cache
+G:\Skolo\Memory Game\Memory Game\obj\Debug\Memory_Game.Form1.resources
+G:\Skolo\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+G:\Skolo\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.Cache
